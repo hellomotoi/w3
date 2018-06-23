@@ -1,0 +1,21 @@
+Question :
+
+1. jq的ready时间与原生js的onload事件的区别
+
+2. jq的立即执行函数写法,以及与原生js的区别
+
+3. jq的新增插件写法
+
+4. ok~~我都知道,jq的主要用途有 --- 方便dom操作 这一条
+
+something one
+常见的dom操作有哪些(增/删/改/查) -- 相关css-dom操作问题(offset/position/scrollTop&Left)
+常见dom选择器 -- 相关closest
+jq对于dom的事件绑定方法 -- 相关jq选择器选择dom集合后的隐式迭代 -- 拓展原生js的事件绑定/事件代理/冒泡等
+
+5. jq的动画方法 animate
+
+6. ajax相关
+
+7. 表单的一些处理方法 -- 常用 表单数据序列化
+
